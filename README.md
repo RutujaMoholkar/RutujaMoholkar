@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <!-- <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"> -->
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"> 
   </a>
+  &nbps;
   <a href="mailto:moholkarrutuja93@gmail.com" target="_blank">
-   <!-- <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=flat&logo=gmail" alt="Email">-->
+   <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=flat&logo=gmail" alt="Email">
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
