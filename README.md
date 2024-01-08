@@ -1,32 +1,17 @@
-<h1 align="center">Hello, I'm Rutuja A. Moholkar.👋</h1>
+<h1 align="center">Hello, I'm [Rutuja Moholkar]<a href="https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">.👋</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"> 
-  </a>
-&ensp; &ensp;
-  
-  
-   <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-<!--&ensp; &ensp;
-<p align="center">
-  <img src="https://media.giphy.com/media/Y1f8S2olSbQ6k/giphy.gif" alt="Coding">
-</p>
--->
-## About Me
 
+  
+<h2>About Me:</h2>
 - 🚀 Aspiring Java Full Stack Developer with a Passion for Integrated Front-End and Back-End Development.
 - 🔭 I’m currently working on Student Management System Project in Java.
 - 🌱 Currently exploring JavaScript.
 - 📫 Reach me out on **<a href="mailto:moholkarrutuja93@gmail.com" target="_blank">moholkarrutuja93@gmail.com</a>**
   
 
-## Technical Skills ✨ 
+## Technical Skills: ✨ 
 
-+ Programming: Java/ J2EE, SQL
+* ###Programming: Java/ J2EE, SQL
 * Persistent Technology: JDBC
 * Web Technology: HTML, CSS, BOOTSTRAP, JAVASCRIPT
 * RDBMS: Oracle, MY-SQL
