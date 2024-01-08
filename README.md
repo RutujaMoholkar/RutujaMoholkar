@@ -23,11 +23,11 @@
 
 ---
 ### Languages and Tools: ✨ 
-* **<u>Programming</u>:** Java/ J2EE, SQL
+<!--* **<u>Programming</u>:** Java/ J2EE, SQL
 * **Persistent Technology:** JDBC
 * **Web Technology:** HTML, CSS, BOOTSTRAP, JAVASCRIPT
 * **RDBMS:** Oracle, MY-SQL
-* **Tools:** Git, GitHub, Command Line(CLI)
+* **Tools:** Git, GitHub, Command Line(CLI)-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
