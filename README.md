@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Rutuja Moholkar.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?Fira+Code&duration=2000&pause=1000&color=10B4F7&center=true&vCenter=true&random=false&width=450&size=25&lines=Welcome+to+my+GitHub+Profile!;Active+Learner..;Love+to+learn+new+things.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?Fira+Code&duration=2000&pause=990&color=10B4F7&center=true&vCenter=true&random=false&width=450&size=25&lines=Welcome+to+my+GitHub+Profile!;Active+Learner..;Love+to+learn+new+things.."></a>
 </p>
 <hr>
 
@@ -20,7 +20,7 @@
 &nbsp;
 
 ---
-### Languages and Tools: ✨ 
+### Languages and Tools : ✨ 
 <!--* **<u>Programming</u>:** Java/ J2EE, SQL
 * **Persistent Technology:** JDBC
 * **Web Technology:** HTML, CSS, BOOTSTRAP, JAVASCRIPT
@@ -40,8 +40,6 @@
   &nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   &nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  &nbsp;&nbsp;
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   &nbsp;&nbsp;
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
@@ -50,7 +48,7 @@
   &nbsp;&nbsp;
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   &nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
    
 ---
 ### My Projects : 
@@ -64,9 +62,8 @@
   This project is an HTML and CSS implementation of a simplified Amazon clone, aiming to replicate the visual elements and layout of the Amazon website. It serves as a practice project for HTML and CSS skills, providing a hands-on experience in creating responsive and well-designed web pages.
 
 ---  
-### Connect with me:
-<!--[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
--->
+### Connect with me :
+
 <p align="left">
 <a href="https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutuja-moholkar-b9036020a" height="30" width="40" /></a>
 <a href="https://instagram.com/rutu_m04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rutu_m04" height="30" width="40" /></a>
@@ -82,11 +79,33 @@
 -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujamoholkar&" alt="rutujamoholkar" /></p>
 
+---
 **Let's Connect!**<br/>
-     Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
+  &nbsp;&nbsp; &nbsp;Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
 
 
 **Thanks for visiting!** 🚀
 
 
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RutujaMoholkar&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RutujaMoholkar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Abhishek1061" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/RutujaMoholkar"><img alt="RutujaMoholkar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
 
