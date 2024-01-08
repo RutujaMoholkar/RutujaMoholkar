@@ -23,42 +23,57 @@ Here are some ideas to get you started:
 &ensp; &ensp;
   
   <a href="mailto:moholkarrutuja93@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=flat&logo=gmail" alt="Email">
+   <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
-&ensp; &ensp;
+<!--&ensp; &ensp;
 <p align="center">
   <img src="https://media.giphy.com/media/Y1f8S2olSbQ6k/giphy.gif" alt="Coding">
 </p>
-
-### About Me
+-->
+## About Me
 
 - 🚀 Aspiring Java Full Stack Developer with a Passion for Integrated Front-End and Back-End Development.
 - 🌱 Currently exploring JavaScript.
 
-### Skills
+## Technical Skills
 
-java
-public class MySkills {
-  private String[] languages = {"Java"};
-  private String[] frameworks = {"BootStrap"};
-  private String[] databases = {"MySQL"};
-  private String[] tools = {"Git", "GitHub","Command Line (CLI)"};
-}
+* Programming : Java/ J2EE, SQL
+* Persistent Technology : JDBC
+* Web Technology : HTML, CSS, BOOTSTRAP, JAVASCRIPT
+* RDBMS : Oracle, MY-SQL
+* Tools/IDE : Eclipse, MySQL, Oracle 10g, Git, GitHub, Command Line(CLI)
 
-Projects
-[Project Name 1](Link to Project 1): Brief description of the project.
-[Project Name 2](Link to Project 2): Brief description of the project.
-[Add more projects as needed]
 
-Education
-Bachelor of Computer Science
+## My Projects
+➢ Vitamin Deficiency Detection using Image Processing and Neural Network: 
+* Overview
+  A cost free Artificial Intelligence based desktop application to detect vitamin deficiency in humans using pictures of specific body organs is introduced.
+  
+* Technologies Used
+  Python 3.9
+  MYSQL Server 8.0
+
+➢ Amazon Clone Project: 
+* Overview
+  This project is an HTML and CSS implementation of a simplified Amazon clone, aiming to replicate the visual elements and layout of the Amazon website. It serves as a practice project for HTML and CSS skills, providing a hands-on experience in creating responsive and well-designed web pages.
+  
+* Features
+  Homepage Layout: Mimics the Amazon homepage structure with a navigation bar, product grid, and footer.
+  Responsive Design: Ensures a seamless browsing experience across various screen sizes.
+  
+* Technologies Used
+HTML5: Structure and markup of the web pages.
+CSS3: Styling and layout design for a polished user interface.
+
+## Education
+Bachelor of Computer Science *- CGPA(9.11)*
 College of Engineering, Phaltan. (2023)
 
-Certifications
+## Certifications
 SQL and Relational Dtabases 101 from Cognitive Class
-[Certification Name 2]
+
 
 📊 GitHub Stats
 
@@ -68,5 +83,4 @@ Feel free to explore my repositories, connect with me on LinkedIn, or drop me an
 Thanks for visiting! 🚀
 
 
-This template includes badges for LinkedIn and email, a profile views counter, a coding GIF, a skills section, and GitHub stats. Feel free to customize it further to match your preferences and style.
 
