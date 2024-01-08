@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
-
+&ensp; &ensp;
 <p align="center">
   <img src="https://media.giphy.com/media/Y1f8S2olSbQ6k/giphy.gif" alt="Coding">
 </p>
