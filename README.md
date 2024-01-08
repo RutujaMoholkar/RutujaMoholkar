@@ -55,14 +55,14 @@
 
 ➢ <b>Vitamin Deficiency Detection using Image Processing and Neural Network :</b>
 * Overview
-  A cost free Artificial Intelligence based desktop application to detect vitamin deficiency in humans using pictures of specific body organs is introduced.
+  <p>A cost free Artificial Intelligence based desktop application to detect vitamin deficiency in humans using pictures of specific body organs is introduced.</p>
 
 ➢<b> Amazon Clone Project :</b> 
 * Overview
-  This project is an HTML and CSS implementation of a simplified Amazon clone, aiming to replicate the visual elements and layout of the Amazon website. It serves as a practice project for HTML and CSS skills, providing a hands-on experience in creating responsive and well-designed web pages.
+  <p>This project is an HTML and CSS implementation of a simplified Amazon clone, aiming to replicate the visual elements and layout of the Amazon website. It serves as a practice project for HTML and CSS skills, providing a hands-on experience in creating responsive and well-designed web pages.</p>
 
 ---  
-### Connect with me :
+### Connect with Me :
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutuja-moholkar-b9036020a" height="30" width="40" /></a>
