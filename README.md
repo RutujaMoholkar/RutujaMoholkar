@@ -6,7 +6,7 @@
 
 ### About Me :
 - 🚀 Aspiring Java Full Stack Developer with a Passion for Integrated Front-End and Back-End Development.
-- 🔭 I’m currently working on ** Java Project**.
+- 🔭 I’m currently working on **Java Project**.
 - 🌱 Currently exploring Spring and Spring Boot.
 - 💬 Ask me about <b>Java, HTML, CSS, Javascript and SQL</b>.
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
@@ -64,7 +64,7 @@
   This project is an HTML and CSS implementation of a simplified Amazon clone, aiming to replicate the visual elements and layout of the Amazon website. It serves as a practice project for HTML and CSS skills, providing a hands-on experience in creating responsive and well-designed web pages.
 
 ---  
-## Connect with me:
+### Connect with me:
 <!--[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 -->
 <p align="left">
