@@ -88,7 +88,7 @@
 
 ---
 **Let's Connect !**<br/>
-  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
+  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
 
 ---
 **Thanks for visiting!** 🚀
