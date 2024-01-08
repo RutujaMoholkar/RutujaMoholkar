@@ -1,5 +1,10 @@
-<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Rutuja Moholkar</a>.👋</h1>
----
+<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Rutuja Moholkar</a>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile;Java+Full+Stack+Developer;Active+Learner,;Love+to+learn+new+stuffs.."></a>
+</p>
+<hr>
+
 ### :woman_technologist: About Me :
 - 🚀 Aspiring Java Full Stack Developer with a Passion for Integrated Front-End and Back-End Development.
 - 🔭 I’m currently working on **Student Management System Project in Java**.
@@ -18,11 +23,11 @@
 ---
 ### My Projects : 
 
-➢ Vitamin Deficiency Detection using Image Processing and Neural Network: 
+➢ <b>Vitamin Deficiency Detection using Image Processing and Neural Network:</b>
 * Overview
   A cost free Artificial Intelligence based desktop application to detect vitamin deficiency in humans using pictures of specific body organs is introduced.
 
-➢ Amazon Clone Project: 
+➢<b> Amazon Clone Project:</b> 
 * Overview
   This project is an HTML and CSS implementation of a simplified Amazon clone, aiming to replicate the visual elements and layout of the Amazon website. It serves as a practice project for HTML and CSS skills, providing a hands-on experience in creating responsive and well-designed web pages.
 
@@ -34,8 +39,8 @@ College of Engineering, Phaltan. (2023)
 ---
 ### :fire: My Stats : 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RutujaMoholkar&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-<br/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RutujaMoholkar&theme=dark" alt="GitHub Streak" /></a>
+<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaMoholkar)](https://github.com/anuraghazra/github-readme-stats)
 
 **Let's Connect!**
