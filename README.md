@@ -56,11 +56,11 @@
 ### My Projects : 
 
 ➢ <b>Vitamin Deficiency Detection using Image Processing and Neural Network:</b>
-* <h4>Overview</h4>
+* Overview
   A cost free Artificial Intelligence based desktop application to detect vitamin deficiency in humans using pictures of specific body organs is introduced.
 
 ➢<b> Amazon Clone Project:</b> 
-* <h4>Overview</h4>
+* Overview
   This project is an HTML and CSS implementation of a simplified Amazon clone, aiming to replicate the visual elements and layout of the Amazon website. It serves as a practice project for HTML and CSS skills, providing a hands-on experience in creating responsive and well-designed web pages.
 
 ---  
@@ -80,10 +80,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaMoholkar)](https://github.com/anuraghazra/github-readme-stats)-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujamoholkar&show_icons=true&locale=en" alt="rutujamoholkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujamoholkar&" alt="rutujamoholkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujamoholkar&" alt="rutujamoholkar" style="backgroundColor:#00000000" /></p>
 
 **Let's Connect!**<br/>
 Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
+
 
 **Thanks for visiting!** 🚀
 
