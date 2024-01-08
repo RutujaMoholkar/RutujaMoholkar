@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Rutuja Moholkar.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?Fira+Code&duration=2000&pause=620&color=10B4F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;Java+Full+Stack+Developer;Active+Learner,;Love+to+learn+new+things.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?Fira+Code&duration=2000&pause=690&color=10B4F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;Java+Full+Stack+Developer;Active+Learner;Love+to+learn+new+things.."></a>
 </p>
 <hr>
 
-:woman_technologist: About Me :
+###:woman_technologist: About Me :
 - 🚀 Aspiring Java Full Stack Developer with a Passion for Integrated Front-End and Back-End Development.
 - 🔭 I’m currently working on **Student Management System Project in Java**.
 - 🌱 Currently exploring JavaScript.
