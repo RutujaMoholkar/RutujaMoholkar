@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Rutuja Moholkar</a>.👋</h1>
-
 ---
 ### :woman_technologist: About Me :
 - 🚀 Aspiring Java Full Stack Developer with a Passion for Integrated Front-End and Back-End Development.
@@ -36,6 +35,7 @@ College of Engineering, Phaltan. (2023)
 ### :fire: My Stats : 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RutujaMoholkar&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaMoholkar)](https://github.com/anuraghazra/github-readme-stats)
 
 **Let's Connect!**
