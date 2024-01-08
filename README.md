@@ -1,19 +1,3 @@
-
-<!--
-**RutujaMoholkar/RutujaMoholkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hello, I'm Rutuja A. Moholkar.👋</h1>
 
 <p align="center">
@@ -22,7 +6,7 @@ Here are some ideas to get you started:
   </a>
 &ensp; &ensp;
   
-  <a href="mailto:moholkarrutuja93@gmail.com" target="_blank">
+  
    <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
@@ -35,9 +19,12 @@ Here are some ideas to get you started:
 ## About Me
 
 - 🚀 Aspiring Java Full Stack Developer with a Passion for Integrated Front-End and Back-End Development.
+- 🔭 I’m currently working on Student Management System Project in Java.
 - 🌱 Currently exploring JavaScript.
+- 📫 Reach me out on **<a href="mailto:moholkarrutuja93@gmail.com" target="_blank">moholkarrutuja93@gmail.com</a>**
+  
 
-## Technical Skills
+## Technical Skills ✨ 
 
 + Programming: Java/ J2EE, SQL
 * Persistent Technology: JDBC
@@ -47,13 +34,10 @@ Here are some ideas to get you started:
 
 
 ## My Projects
+
 ➢ Vitamin Deficiency Detection using Image Processing and Neural Network: 
 * Overview
   A cost free Artificial Intelligence based desktop application to detect vitamin deficiency in humans using pictures of specific body organs is introduced.
-  
-* Technologies Used
-  Python 3.9
-  MYSQL Server 8.0
 
 ➢ Amazon Clone Project: 
 * Overview
@@ -63,21 +47,16 @@ Here are some ideas to get you started:
   Homepage Layout: Mimics the Amazon homepage structure with a navigation bar, product grid, and footer.
   Responsive Design: Ensures a seamless browsing experience across various screen sizes.
   
-* Technologies Used
-HTML5: Structure and markup of the web pages.
-CSS3: Styling and layout design for a polished user interface.
 
 ## Education
-Bachelor of Computer Science *- CGPA(9.11)*
-College of Engineering, Phaltan. (2023)
 
-## Certifications
-SQL and Relational Dtabases 101 from Cognitive Class
+Bachelor of Computer Science **- CGPA(9.11)** <br>
+College of Engineering, Phaltan. (2023)
 
 
 📊 GitHub Stats
 
-Let's Connect!
+**Let's Connect!**
 Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
 
 Thanks for visiting! 🚀
