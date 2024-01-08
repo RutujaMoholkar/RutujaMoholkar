@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"> 
   </a>
-<br />_
+&ensp; &ensp;
   
   <a href="mailto:moholkarrutuja93@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=flat&logo=gmail" alt="Email">
