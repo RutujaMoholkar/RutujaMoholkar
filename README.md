@@ -11,16 +11,23 @@
 - 💬 Ask me about <b>Java, HTML, CSS and SQL</b>.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 📫 Reach me out on **<a href="mailto:moholkarrutuja93@gmail.com" target="_blank">moholkarrutuja93@gmail.com</a>**
-  
+- 💪 This is where I write, code and solve problems:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/RutujaMoholkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/RutujaMoholkar/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RutujaMoholkar" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/moholkarrutuja93" target="_blank"><img align="center" src="https://raw.githubusercontent.com/RutujaMoholkar/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RutujaMoholkar" height="30" width="40" /></a>
+&nbsp;
+
 ---
 
 ---
-### Technical Skills : ✨ 
+### Languages and Tools: ✨ 
 * **<u>Programming</u>:** Java/ J2EE, SQL
-* **<u>Persistent Technology</u>:** JDBC
-* **<u>Web Technology</u>:** HTML, CSS, BOOTSTRAP, JAVASCRIPT
-* **<u>RDBMS</u>:** Oracle, MY-SQL
-* **<u>Tools</u>:** Git, GitHub, Command Line(CLI)
+* **Persistent Technology:** JDBC
+* **Web Technology:** HTML, CSS, BOOTSTRAP, JAVASCRIPT
+* **RDBMS:** Oracle, MY-SQL
+* **Tools:** Git, GitHub, Command Line(CLI)
 
 ---
 ### My Projects : 
@@ -34,9 +41,6 @@
   This project is an HTML and CSS implementation of a simplified Amazon clone, aiming to replicate the visual elements and layout of the Amazon website. It serves as a practice project for HTML and CSS skills, providing a hands-on experience in creating responsive and well-designed web pages.
 
 ---  
-
----
-
 ## Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
