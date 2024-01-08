@@ -9,7 +9,6 @@
 - 🚀 Aspiring Java Full Stack Developer with a Passion for Integrated Front-End and Back-End Development.
 - 🔭 I’m currently working on **Java Project**.
 - 🌱 Currently exploring Spring and Spring Boot.
-- 💬 Ask me about <b>Java, HTML, CSS, Javascript and SQL</b>.
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 - 📫 Reach me out on **<a href="mailto:moholkarrutuja93@gmail.com" target="_blank">moholkarrutuja93@gmail.com</a>**
 - 💪 This is where I write, code and solve problems:
