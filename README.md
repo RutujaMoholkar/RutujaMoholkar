@@ -8,7 +8,7 @@
 - 🚀 Aspiring Java Full Stack Developer with a Passion for Integrated Front-End and Back-End Development.
 - 🔭 I’m currently working on **Student Management System Project in Java**.
 - 🌱 Currently exploring JavaScript.
-- 💬 Ask me about Java, HTML, CSS and SQL.
+- 💬 Ask me about <b>Java, HTML, CSS and SQL</b>.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 📫 Reach me out on **<a href="mailto:moholkarrutuja93@gmail.com" target="_blank">moholkarrutuja93@gmail.com</a>**
   
@@ -16,11 +16,11 @@
 
 ---
 ### Technical Skills : ✨ 
-* <h4>Programming:</h4> Java/ J2EE, SQL
-* <h4>Persistent Technology:</h4> JDBC
-* <h4>Web Technology:</h4> HTML, CSS, BOOTSTRAP, JAVASCRIPT
-* <h4>RDBMS:</h4> Oracle, MY-SQL
-* <h4>Tools:</h4> Git, GitHub, Command Line(CLI)
+* **<u>Programming</u>:** Java/ J2EE, SQL
+* **<u>Persistent Technology</u>:** JDBC
+* **<u>Web Technology</u>:** HTML, CSS, BOOTSTRAP, JAVASCRIPT
+* **<u>RDBMS</u>:** Oracle, MY-SQL
+* **<u>Tools</u>:** Git, GitHub, Command Line(CLI)
 
 ---
 ### My Projects : 
