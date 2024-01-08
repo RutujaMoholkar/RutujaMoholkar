@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ## Technical Skills
 
-* Programming : Java/ J2EE, SQL
-* Persistent Technology : JDBC
-* Web Technology : HTML, CSS, BOOTSTRAP, JAVASCRIPT
-* RDBMS : Oracle, MY-SQL
-* Tools/IDE : Eclipse, MySQL, Oracle 10g, Git, GitHub, Command Line(CLI)
++ Programming: Java/ J2EE, SQL
+* Persistent Technology: JDBC
+* Web Technology: HTML, CSS, BOOTSTRAP, JAVASCRIPT
+* RDBMS: Oracle, MY-SQL
+* Tools/IDE: Git, GitHub, Command Line(CLI), Eclipse, MySQL
 
 
 ## My Projects
