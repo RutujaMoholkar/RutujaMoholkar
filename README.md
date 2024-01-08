@@ -1,10 +1,11 @@
 <h1 align="center">Hello, I'm Rutuja Moholkar.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?Fira+Code&duration=2000&pause=990&color=10B4F7&center=true&vCenter=true&random=false&width=450&size=25&lines=Welcome+to+my+GitHub+Profile!;Active+Learner..;Love+to+learn+new+things.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?Fira+Code&duration=4000&pause=1000&color=10B4F7&center=true&vCenter=true&random=false&width=450&size=25&lines=Welcome+to+my+GitHub+Profile!;Active+Learner..;Love+to+learn+new+things.."></a>
 </p>
 <hr>
 
 ### About Me :
+
 - 🚀 Aspiring Java Full Stack Developer with a Passion for Integrated Front-End and Back-End Development.
 - 🔭 I’m currently working on **Java Project**.
 - 🌱 Currently exploring Spring and Spring Boot.
@@ -20,7 +21,8 @@
 &nbsp;
 
 ---
-### Languages and Tools : ✨ 
+### Languages and Tools : ✨
+
 <!--* **<u>Programming</u>:** Java/ J2EE, SQL
 * **Persistent Technology:** JDBC
 * **Web Technology:** HTML, CSS, BOOTSTRAP, JAVASCRIPT
@@ -74,16 +76,8 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RutujaMoholkar&theme=dark" alt="GitHub Streak" /></a>
 <br/><br/>
-<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaMoholkar)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-**Let's Connect!**<br/>
-  &nbsp;&nbsp; &nbsp;Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
-
-**Thanks for visiting!** 🚀
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaMoholkar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/>
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -92,6 +86,13 @@
 <br/>
   </p>
 </details>
+
+---
+**Let's Connect !**<br/>
+  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
+
+---
+**Thanks for visiting!** 🚀
 
 
 
