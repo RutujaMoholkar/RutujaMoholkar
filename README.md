@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rutuja-moholkar-b9036020a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" > 
   </a>
-  &nbps;
+  
   <a href="mailto:moholkarrutuja93@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=flat&logo=gmail" alt="Email">
   </a>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### Skills
 
-```java
+java
 public class MySkills {
   private String[] languages = {"Java"};
   private String[] frameworks = {"BootStrap"};
