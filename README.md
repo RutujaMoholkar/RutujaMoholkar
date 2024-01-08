@@ -11,13 +11,12 @@
 - 🌱 Currently exploring Spring and Spring Boot.
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 - 📫 Reach me out on **<a href="mailto:moholkarrutuja93@gmail.com" target="_blank">moholkarrutuja93@gmail.com</a>**
-- 💪 This is where I write, code and solve problems:
+- 💪 This is where I write, code and solve problems :
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/RutujaMoholkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RutujaMoholkar" height="40" width="40" /></a>
-&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/moholkarrutuja93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moholkarrutuja93" height="40" width="40" /></a>
-&nbsp;
+&nbsp;&nbsp;
+<a href="https://github.com/RutujaMoholkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RutujaMoholkar" height="40" width="40" /></a>
 
 ---
 ### Languages and Tools : ✨
@@ -54,11 +53,11 @@
 ---
 ### My Projects : 
 
-➢ <b>Vitamin Deficiency Detection using Image Processing and Neural Network:</b>
+➢ <b>Vitamin Deficiency Detection using Image Processing and Neural Network :</b>
 * Overview
   A cost free Artificial Intelligence based desktop application to detect vitamin deficiency in humans using pictures of specific body organs is introduced.
 
-➢<b> Amazon Clone Project:</b> 
+➢<b> Amazon Clone Project :</b> 
 * Overview
   This project is an HTML and CSS implementation of a simplified Amazon clone, aiming to replicate the visual elements and layout of the Amazon website. It serves as a practice project for HTML and CSS skills, providing a hands-on experience in creating responsive and well-designed web pages.
 
@@ -78,7 +77,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaMoholkar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 GitHub Profile Stats :</b></summary>
   <br/>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RutujaMoholkar&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
@@ -91,7 +90,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
 
 ---
-**Thanks for visiting!** 🚀
+**Thanks for visiting !** 🚀
 
 
 
