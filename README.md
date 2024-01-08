@@ -53,13 +53,11 @@
 ---
 ### My Projects : 
 
-➢ <b>Vitamin Deficiency Detection using Image Processing and Neural Network :</b>
-* Overview
-  <p>A cost free Artificial Intelligence based desktop application to detect vitamin deficiency in humans using pictures of specific body organs is introduced.</p>
+#### ➢ Vitamin Deficiency Detection using Image Processing and Neural Network :
+&nbsp; &nbsp;&nbsp; &nbsp;A cost free Artificial Intelligence based desktop application to detect vitamin deficiency in humans using pictures of specific body organs is introduced.
 
-➢<b> Amazon Clone Project :</b> 
-* Overview
-  <p>This project is an HTML and CSS implementation of a simplified Amazon clone, aiming to replicate the visual elements and layout of the Amazon website. It serves as a practice project for HTML and CSS skills, providing a hands-on experience in creating responsive and well-designed web pages.</p>
+#### ➢ Amazon Clone Project :
+&nbsp; &nbsp;&nbsp; &nbsp;This project is an HTML and CSS implementation of a simplified Amazon clone, aiming to replicate the visual elements and layout of the Amazon website.
 
 ---  
 ### Connect with Me :
