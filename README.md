@@ -74,10 +74,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RutujaMoholkar&theme=dark" alt="GitHub Streak" /></a>
 <br/><br/>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaMoholkar)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujamoholkar&show_icons=true&locale=en" alt="rutujamoholkar" /></p>
--->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujamoholkar&" alt="rutujamoholkar" /></p>
+<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaMoholkar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
@@ -90,10 +87,11 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
+  <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RutujaMoholkar&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
 <br/>
   </p>
 </details>
+
 
 
