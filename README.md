@@ -80,7 +80,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaMoholkar)](https://github.com/anuraghazra/github-readme-stats)-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujamoholkar&show_icons=true&locale=en" alt="rutujamoholkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujamoholkar&" alt="rutujamoholkar" style="backgroundColor:#00000000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujamoholkar&" alt="rutujamoholkar" /></p>
 
 **Let's Connect!**<br/>
 Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
