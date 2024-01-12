@@ -84,11 +84,11 @@
 </details>
 
 ---
-**Let's Connect !**<br/>
+### Let's Connect !
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm open to collaboration and always excited to learn and share knowledge!
 
 ---
-#### Thanks for visiting ! 🚀
+### Thanks for visiting ! 🚀
 
 
 
