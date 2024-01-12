@@ -75,7 +75,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaMoholkar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <details> 
-       ### 💻 GitHub Profile Stats :
+      <summary><b>💻 GitHub Profile Stats :</b></summary>
   <br/>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RutujaMoholkar&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
