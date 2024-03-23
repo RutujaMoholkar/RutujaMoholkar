@@ -7,7 +7,7 @@
 ### About Me :
 
 - 🚀 Aspiring Java Full Stack Developer with a Passion for Integrated Front-End and Back-End Development.
-- 🔭 I’m currently working on **Java Project**.
+- 🔭 I’m currently working on **Full Stack Project - Restaurant Management System**.
 - 🌱 Currently exploring Spring and Spring Boot.
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 - 📫 Reach me out on **<a href="mailto:moholkarrutuja93@gmail.com" target="_blank">moholkarrutuja93@gmail.com</a>**
